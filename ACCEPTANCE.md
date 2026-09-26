@@ -45,6 +45,7 @@ Ties are broken by (a). Shortlist = top 3.
 
 **Units:** 
 - Energy in MWh, mass in t, prices in €/MWh, emissions in tCO2e (emission factors are CO2-only unless the source gives CO2e, the difference of 1-2% is not material to any conclusion here)
+- Numbers: thousands separated by a space, decimals by a point (211 078 t, 0.0249). Quotes from sources keep the source's own format.
 
 **Results:**
 - Rounded to two significant figures. 

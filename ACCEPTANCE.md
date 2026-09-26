@@ -24,6 +24,7 @@ The money a use case saves in a year, divided by the tons of finished product th
     - 2 = a recurring analysis a person acts on, or a one-off investment decision the OS's data would clearly inform
     - 1 = neither
 
+Anchor for (d), from rizm.de (S2, R1 to R3): the software runs assets and production in 15-minute steps across the power markets, described as fully automated, and it finds and sizes measures from flexibility to investments and hedging, which a human then decides on. So a 3 is a 15-minute kind of decision the software could take itself, a 2 is a decision it prepares for a human.  
 Ties are broken by (a). Shortlist = top 3.  
 (a) is scored on the weakest row a case rests on, not the strongest, and a range is scored at its low end. The site's energy-cost row is fixed before any case is scored. (b) is scored once before the model as a rough order of magnitude; after the calculation, the computed ranking counts, and any change to the shortlist is logged as a decision. A measure Henkel has visibly already done, or started, is cut or reduced to what is left of it, and logged.
 
